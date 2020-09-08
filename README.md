@@ -12,4 +12,9 @@ Icons : [React Icons](https://react-icons.github.io/react-icons/)
 
 SVG : [UnDraw](https://undraw.co/illustrations)
 
-Color Palette : palevioletred,papayawhip, #50b547, #fff, #000, #121212,#242424
+Color Palette : [Palevioletred](https://www.htmlcsscolor.com/hex/DB7093)
+                 [Papayawhip](https://www.htmlcsscolor.com/hex/FFEFD5)
+                 [ Close to Fruit Salad ](https://www.htmlcsscolor.com/hex/50B547)
+                 [white](https://www.htmlcsscolor.com/hex/FFFFFF)
+                 [Tint Black](https://www.htmlcsscolor.com/hex/121212)
+                 [Nero](https://www.htmlcsscolor.com/hex/242424)
