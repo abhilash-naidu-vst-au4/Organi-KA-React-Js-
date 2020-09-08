@@ -1,8 +1,8 @@
-                                              [Organi-KA](https://organi-ka.netlify.app/) Sample Single Page Application.
+                                              Organi-KA Sample Single Page Application.
                                                            
 
 
-
+[Organi-KA](https://organi-ka.netlify.app/)
 
 FrontEnd : [React Js](https://reactjs.org/).
 
